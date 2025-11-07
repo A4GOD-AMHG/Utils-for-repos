@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="mongoGrad">
+      <stop offset="0%" stop-color="#13aa52"/>
+      <stop offset="100%" stop-color="#0d5e2b"/>
+    </linearGradient>
+  </defs>
+  <circle cx="64" cy="64" r="62" fill="url(#mongoGrad)"/>
+  <path d="M64 32 Q48 48 48 64 Q48 80 64 96 Q80 80 80 64 Q80 48 64 32 Z" fill="white" opacity="0.9"/>
+  <path d="M64 96 Q80 80 96 64 Q96 48 80 32 Q64 48 64 96 Z" fill="white" opacity="0.7"/>
+  <ellipse cx="64" cy="32" rx="4" ry="3" fill="white" opacity="0.5"/>
+</svg>

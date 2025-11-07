@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="pgGrad">
+      <stop offset="0%" stop-color="#336791"/>
+      <stop offset="100%" stop-color="#1a1a2e"/>
+    </linearGradient>
+  </defs>
+  <circle cx="64" cy="64" r="62" fill="url(#pgGrad)"/>
+  <path d="M64 28c18.75 0 34 15.25 34 34s-15.25 34-34 34-34-15.25-34-34 15.25-34 34-34z" fill="none" stroke="white" stroke-width="2.5"/>
+  <circle cx="64" cy="62" r="8" fill="white" opacity="0.4"/>
+  <circle cx="64" cy="30" r="2" fill="white"/>
+  <circle cx="94" cy="62" r="2" fill="white"/>
+  <circle cx="64" cy="94" r="2" fill="white"/>
+  <circle cx="34" cy="62" r="2" fill="white"/>
+  <path d="M64 32 L94 60 L64 92 L34 60 Z" fill="none" stroke="white" stroke-width="1.5" opacity="0.6"/>
+</svg>
